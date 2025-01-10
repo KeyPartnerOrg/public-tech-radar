@@ -104,6 +104,22 @@
                     "description": "Descrizione per hold"
                 }
             ]
+        },
+        {
+            "id": "tecnologia5",
+            "title": "Tecnologia 5",
+            "description": "Descrizione della tecnologia 5",
+            "key": "tecnologia5",
+            "url": "#",
+            "quadrant": "1",
+            "timeline": [
+                {
+                    "moved": 0,
+                    "ringId": "adopt",
+                    "date": "2024-12-19",
+                    "description": "Descrizione per adopt"
+                }
+            ]
         }
     ]
 }
