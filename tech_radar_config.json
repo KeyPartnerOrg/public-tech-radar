@@ -1,0 +1,109 @@
+{
+    "title": "Test",
+    "quadrants": [
+        {
+            "id": "1",
+            "name": "Bottom right"
+        },
+        {
+            "id": "2",
+            "name": "Bottom left"
+        },
+        {
+            "id": "3",
+            "name": "Top left"
+        },
+        {
+            "id": "4",
+            "name": "Top right"
+        }
+    ],
+    "rings": [
+        {
+            "id": "adopt",
+            "name": "ANELLO 1",
+            "color": "#93c47d"
+        },
+        {
+            "id": "trial",
+            "name": "ANELLO 2",
+            "color": "#93d2c2"
+        },
+        {
+            "id": "assess",
+            "name": "ANELLO 3",
+            "color": "#fbdb84"
+        },
+        {
+            "id": "hold",
+            "name": "ANELLO 4",
+            "color": "#efafa9"
+        }
+    ],
+    "entries": [
+        {
+            "id": "tecnologia1",
+            "title": "Tecnologia 1",
+            "description": "Descrizione della tecnologia 1",
+            "key": "tecnologia1",
+            "url": "#",
+            "quadrant": "1",
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "adopt",
+                    "date": "2024-12-19",
+                    "description": "Descrizione per adopt"
+                }
+            ]
+        },
+        {
+            "id": "tecnologia2",
+            "title": "Tecnologia 2",
+            "description": "Descrizione della tecnologia 2",
+            "key": "tecnologia2",
+            "url": "#",
+            "quadrant": "2",
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "trial",
+                    "date": "2024-12-19",
+                    "description": "Descrizione per trial"
+                }
+            ]
+        },
+        {
+            "id": "tecnologia3",
+            "title": "Tecnologia 3",
+            "description": "Descrizione della tecnologia 3",
+            "key": "tecnologia3",
+            "url": "#",
+            "quadrant": "3",
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "assess",
+                    "date": "2024-12-19",
+                    "description": "Descrizione per assess"
+                }
+            ]
+        },
+        {
+            "id": "tecnologia4",
+            "title": "Tecnologia 4",
+            "description": "Descrizione della tecnologia 4",
+            "key": "tecnologia4",
+            "url": "#",
+            "quadrant": "4",
+            "timeline": [
+                {
+                    "moved": 1,
+                    "ringId": "hold",
+                    "date": "2024-12-19",
+                    "description": "Descrizione per hold"
+                }
+            ]
+        }
+    ]
+}
